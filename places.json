@@ -18,7 +18,9 @@
 				"alternative": [
 					"https://en.wikipedia.org/wiki/Anıtkabir#/media/File:Ankara_asv2021-10_img08_Anıtkabir.jpg",
 					"https://en.wikipedia.org/wiki/Anıtkabir#/media/File:Turkey-1658_(2215850337).jpg"
-				]
+				],
+				"latitude": 39.925556,
+				"longitude": 32.837778
 			}
 		],
 		"AYD": [
@@ -29,7 +31,9 @@
 				"landing": "https://en.wikipedia.org/wiki/Kuşadası#/media/File:Kuşadası_Overlook.jpg",
 				"alternative": [
 					"https://en.wikipedia.org/wiki/Kuşadası#/media/File:Kuşadası_Milli_Park.JPG"
-				]
+				],
+				"latitude": 37.716667,
+				"longitude": 27.233333
 			}
 		],
 		"ISP": [
@@ -40,7 +44,9 @@
 				"landing": "https://tr.wikipedia.org/wiki/Eğirdir_Gölü#/media/Dosya:LakeEgirdir.jpg",
 				"alternative": [
 					"https://tr.wikipedia.org/wiki/Eğirdir_Gölü#/media/Dosya:Eğirdir_lake.jpg"
-				]
+				],
+				"latitude": 38.056667,
+				"longitude": 30.866111
 			}
 		],
 		"IST": [
@@ -52,7 +58,9 @@
 				"alternative": [
 					"https://en.wikipedia.org/wiki/Hagia_Sophia#/media/File:Istanbul_asv2021-10_img22_Hagia_Sophia.jpg",
 					"https://en.wikipedia.org/wiki/Hagia_Sophia#/media/File:Hagia_Szophia_-_Isztambul,_2014.10.23_(14).JPG"
-				]
+				],
+				"latitude": 41.008467,
+				"longitude": 28.980258
 			}
 		],
 		"IZM": [
@@ -62,7 +70,9 @@
 				"full": "İzmir Clock Tower (Turkish: İzmir Saat Kulesi) is a historic clock tower located at the Konak Square in the Konak district of İzmir, Turkey. It is considered as the main landmark of the city. The tower, which has an iron and lead skeleton, is 25 m (82 ft) high and features four fountains (şadırvan), which are placed around the base in a circular pattern.[2][3] The ground area of the tower is 81 m2 (870 sq ft)[3] The tower has an octagonal plan and four floors.[2][3] It was made of marble and stone.[2] The tower has four clocks with a diameter of 75 cm.[3] There is a bell on the fourth floor which is carried by twelve columns.[3] There were tughras and Ottoman coats of arms on four sides of the tower.[3] After the proclamation of the republic, they were engraved and replaced with stars and crescents.",
 				"landing": "https://en.wikipedia.org/wiki/İzmir_Clock_Tower#/media/File:Izmir_square_clock_tower.jpg",
 				"alternative": [
-				]
+				],
+				"latitude": 38.418861,
+				"longitude": 27.128667
 			}
 		],
 		"KRB": [
@@ -72,7 +82,9 @@
 				"full": "İncekaya Aqueduct (Turkish: İncekaya Su Kemeri) is an 18th-century aqueduct in Karabük Province, Turkey. The aqueduct is to the north of Safranbolu ilçe (district) It is over Tokatlı Canyon. The altitude of the aqueduct with respect to sea level is about 600 m (2,000 ft). The aqueduct was commissioned by Safranbolulu Izzet Mehmet Pasha, a citizen of Safranbolu and a grand vizier of the Ottoman Empire between 1794–1798. The structure was used to supply water to Safranbolu.",
 				"landing": "https://en.wikipedia.org/wiki/İncekaya_Aqueduct#/media/File:İncekaya_Su_kemeri_(2013)_-_panoramio.jpg",
 				"alternative": [
-				]
+				],
+				"latitude": 41.281389,
+				"longitude": 32.684722
 			}
 		],
 		"KYS": [
@@ -83,7 +95,9 @@
 				"landing": "https://en.wikipedia.org/wiki/Mount_Erciyes#/media/File:Mount_Erciyes_from_near_Göreme_1729.jpg",
 				"alternative": [
 					"https://en.wikipedia.org/wiki/Mount_Erciyes#/media/File:Mount_Erciyes_(Argaeus),_Turkey_(31871002313).jpg"
-				]
+				],
+				"latitude": 38.531,
+				"longitude": 35.447
 			}
 		]
 	}

@@ -18,7 +18,7 @@ the app should have 'login-page', 'cities-list-page', 'city-places-list-page' an
 1) handle disconnection: if the mobile device does not have an internet connection at login, or lost it after the login phase, just notify her as in today's modern mobile applications.
 2) develop auto-login and log-out: once user enters correct credentials, just auto-login her on her second application launching. besides, develop log-out option, in which if user log-outs, route her to login page on her second application running  --as in most modern applications we've been using such as Instagram, Twitter, Gmail etc.
 hint: https://pub.dev/packages/shared_preferences
-3) show distance: get user's longitude and latitude informatin, then show calculate her distance to show far she is to the place in 'place-details-page'. In case you may reach to develop this case, I recommend you to modify backend code to add distance calculation API.
+3) show distance: get user's longitude and latitude informatin, then show calculate her distance to show far she is to the place in 'place-details-page'.
 hint: https://pub.dev/packages/geolocator
 
 # install server
