@@ -12,5 +12,9 @@ def main():
     response = requests.post("http://127.0.0.1:5000/rest/cities", json={}, headers=headers)
     print(response.text)
 
+    headers = {"Authorization": "Bearer {}".format(access_token)}
+    response = requests.post("http://127.0.0.1:5000/rest/places", json={"city": "ANK"}, headers=headers)
+    print(response.text)
+
 if __name__ == "__main__":
     main()

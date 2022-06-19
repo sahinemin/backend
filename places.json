@@ -1,11 +1,18 @@
 {
 	"cities": [
 		{"code": "IST", "name": "Istanbul"},
-		{"code": "ANK", "name": "Ankara"}
+		{"code": "ANK", "name": "Ankara"},
+		{"code": "IZM", "name": "Izmir"}
 	],
-	"areas": [
-		{"city": "IST", "name": "Ayasofya", "about": "expl goes here"},
-		{"city": "ANK", "name": "Anitkabir", "about": "expl goes here"},
-		{"city": "IZM", "name": "Saat Kulesi", "about": "expl goes here"}
-	]
+	"areas": {
+		"IZM": [
+			{"name": "Saat Kulesi", "about": "expl goes here"}
+		],
+		"IST": [
+			{"name": "Ayasofya", "about": "expl goes here"}
+		],
+		"ANK": [
+			{"name": "Anitkabir", "about": "expl goes here"}
+		]
+	}
 }
