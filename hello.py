@@ -24,11 +24,6 @@ USER_DB = {
 
 CITY_DB = __read_json("places.json")
 
-@app.route('/')
-def hello():
-    return 'hello'
-
-
 @app.route('/rest/login', methods=['POST'])
 def login():
     data = request.get_json()
