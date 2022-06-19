@@ -61,6 +61,18 @@
 				],
 				"latitude": 41.008467,
 				"longitude": 28.980258
+			},
+			{
+				"name": "Topkapı Palace", 
+				"intro": "The Topkapı Palace (Turkish: Topkapı Sarayı;[2] Ottoman Turkish: طوپقپو سرايى, romanized: ṭopḳapu sarāyı, lit. 'cannon gate palace'),[3] or the Seraglio,[4] is a large museum in the east of the Fatih district of Istanbul in Turkey.",
+				"full": "The Topkapı Palace (Turkish: Topkapı Sarayı;[2] Ottoman Turkish: طوپقپو سرايى, romanized: ṭopḳapu sarāyı, lit. 'cannon gate palace'),[3] or the Seraglio,[4] is a large museum in the east of the Fatih district of Istanbul in Turkey. In the 15th and 16th centuries it served as the main residence and administrative headquarters of the Ottoman sultans.Construction, ordered by the Sultan Mehmed the Conqueror, began in 1459, six years after the conquest of Constantinople. Topkapı was originally called the 'New Palace' (Yeni Saray or Saray-ı Cedîd-i Âmire) to distinguish it from the Old Palace [tr] (Eski Saray or Sarây-ı Atîk-i Âmire) in Beyazıt Square. It was given the name Topkapı, meaning Cannon Gate, in the 19th century.[5] The complex expanded over the centuries, with major renovations after the 1509 earthquake and the 1665 fire. The palace complex consists of four main courtyards and many smaller buildings. Female members of the Sultan's family lived in the harem, and leading state officials, including the Grand Vizier, held meetings in the Imperial Council building.",
+				"landing": "https://en.wikipedia.org/wiki/Topkapı_Palace#/media/File:Topkapı_-_01.jpg",
+				"alternative": [
+					"https://en.wikipedia.org/wiki/Topkapı_Palace#/media/File:Topkapı_Main_Entrance.jpg",
+					"https://en.wikipedia.org/wiki/Topkapı_Palace#/media/File:Istanbul_asv2020-02_img15_Topkapı_Palace.jpg"
+				],
+				"latitude": 41.013,
+				"longitude": 28.984
 			}
 		],
 		"IZM": [
