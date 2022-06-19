@@ -7,8 +7,8 @@ the app should have 'login-page', 'cities-list-page', 'city-places-list-page' an
 
 1) login-page: app should have a login page. user inputs (username and password) should be passed to backend by calling "http://URL/rest/login"". upon unsuccessful login response, user should be notified. upon successful response, user should be routed to 'cities-list-page'
 2) cities-list-page: app should fetch list of cities that have places worth to see by calling  "http://URL/rest/cities". upon getting response, user should see the list of cities, and have ability to tap one of them to route 'city-places-list-page'
-3) city-places-list-page: app should fetch list of places by calling "http://URL/rest/places" with city code as data. upon getting response, user should see the list of places (only landing-image and intro text). user should have ability to tap one of them to route 'place-details-page'. user should also have ability to return 'cities-list-page'
-4) place-details-page: app should show landing-image and alternative-images (preferably as sliding images, as in Instagram), intro text and detail text. user should have ability to route back to 'city-places-list' page.
+3) city-places-list-page: app should fetch list of places by calling "http://URL/rest/places" with city code as data. upon getting response, user should see the list of places (only 'landing' image and 'intro' text). user should have ability to tap one of them to route 'place-details-page'. user should also have ability to return 'cities-list-page'
+4) place-details-page: app should show 'landing' image and 'alternative' images if any (preferably as sliding images, as in Instagram) with 'full' text. user should have ability to route back to 'city-places-list' page.
 
 ## remarks 
 - successful login response will contain json-web-token. this should be used for all further API calls for authentication.
