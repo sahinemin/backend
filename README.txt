@@ -31,7 +31,7 @@ hint: https://pub.dev/packages/geolocator
 cd tourism
 . bin/activate
 export FLASK_APP=hello.py
-flask run
+flask run --host=127.0.0.1 --port=5000
 
 ## test server
 cd tourism
