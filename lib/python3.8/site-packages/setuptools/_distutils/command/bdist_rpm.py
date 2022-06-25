@@ -216,7 +216,7 @@ class bdist_rpm(Command):
         self.ensure_string('packager')
         self.ensure_string_list('doc_files')
         if isinstance(self.doc_files, list):
-            for readme in ('README', 'README.txt'):
+            for readme in ('README', 'README.md'):
                 if os.path.exists(readme) and readme not in self.doc_files:
                     self.doc_files.append(readme)
 

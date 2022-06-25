@@ -11,18 +11,21 @@ app = Flask(__name__)
 app.config['JWT_SECRET_KEY'] = 'myKey.20202030'
 jwt = JWTManager(app)
 
+
 def __read_json(fname):
     """
     """
-    with open(fname, "r") as datafile:
+    with open(fname, encoding="utf8") as datafile:
         data = json.load(datafile)
     return data
+
 
 USER_DB = {
     "test": "password"
 }
 
 CITY_DB = __read_json("places.json")
+
 
 @app.route('/rest/login', methods=['POST'])
 def login():
@@ -53,6 +56,7 @@ def cities():
     """
     """
     return jsonify({"data": CITY_DB["cities"]}), 200
+
 
 @app.route("/rest/places", methods=['POST'])
 @jwt_required()
